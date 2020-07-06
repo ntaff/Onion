@@ -1,8 +1,7 @@
 import requests
 import re
 
-#ping = requests.get('http://3g2upl4pq6kufc4m.onion')
-#print(ping.status_code)
+# /!\ ACTIVATE KALITORIFY FIRST /!\
 
 fin = open("test.md", "r")
 content = fin.readlines()
